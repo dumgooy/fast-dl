@@ -1,0 +1,41 @@
+"models/v_9mmar.mdl" "models/ssa/v_9mmar-v2.mdl"
+"models/p_9mmar.mdl" "models/ssa/p_9mmar-v2.mdl"
+"models/w_9mmar.mdl" "models/ssa/w_9mmar-v2.mdl"
+
+"models/v_rpg.mdl" "models/ssa/v_rpg.mdl"
+"models/p_rpg.mdl" "models/ssa/p_rpg.mdl"
+"models/w_rpg.mdl" "models/ssa/w_rpg.mdl"
+
+"models/v_357.mdl" "models/ssa/v_357-v2.mdl"
+"models/p_357.mdl" "models/ssa/p_357-v2.mdl"
+"models/w_357.mdl" "models/ssa/w_357-v2.mdl"
+
+"models/v_shotgun.mdl" "models/ssa/v_shotgun-v2.mdl"
+"models/p_shotgun.mdl" "models/ssa/p_shotgun.mdl"
+"models/w_shotgun.mdl" "models/ssa/w_shotgun.mdl"
+
+"models/v_crowbar.mdl" "models/ssa/v_knife.mdl"
+"models/p_crowbar.mdl" "models/ssa/p_knife.mdl"
+"models/w_crowbar.mdl" "models/ssa/w_knife.mdl"
+
+"models/v_uzi.mdl" "models/ssa/v_suzi.mdl"
+"models/p_uzi.mdl" "models/ssa/p_suzi.mdl"
+"models/w_uzi.mdl" "models/ssa/w_suzi.mdl"
+"models/p_2uzis.mdl" "models/ssa/p_suzis-dual.mdl"
+"models/w_2uzis.mdl" "models/ssa/w_suzis-dual.mdl"
+
+"models/v_spore_launcher.mdl" "models/ssa/v_s2gl.mdl"
+"models/p_spore_launcher.mdl" "models/ssa/p_s2gl.mdl"
+"models/w_spore_launcher.mdl" "models/ssa/w_s2gl.mdl"
+
+"models/v_desert_eagle.mdl" "models/opfor/v_desert_eagle.mdl"
+"models/v_pipe_wrench.mdl" "models/opfor/v_pipe_wrench.mdl"
+"models/v_m16a2.mdl" "models/opfor/v_m16a2.mdl"
+"models/v_medkit.mdl" "models/opfor/v_medkit.mdl"
+"models/v_saw.mdl" "models/opfor/v_saw.mdl"
+"models/v_grenade.mdl" "models/opfor/v_grenade.mdl"
+"models/v_satchel.mdl" "models/opfor/v_satchel.mdl"
+"models/v_m40a1.mdl" "models/opfor/v_m40a1.mdl"
+"models/v_squeak.mdl" "models/opfor/v_squeak.mdl"
+"models/v_satchel_radio.mdl" "models/opfor/v_satchel_radio.mdl"
+"models/v_egon.mdl" "models/opfor/v_egon.mdl"
